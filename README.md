@@ -33,6 +33,7 @@ myNumber = -120
 var percentage: Float = 98.5 // Float
 var latitude: Double = 109.00012 // Double precision floating point number
 var isAwesome: Bool = true // Boolean: true or false
+var grade: Character = "A" // Character
 var name: String = "John Doe" // String
 
 
