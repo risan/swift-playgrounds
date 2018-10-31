@@ -299,4 +299,4 @@ Car.totalCreated // 2
 
 ## License
 
-MIT © [Risan Bagja Pradana](https://risan.io)
+MIT © [Risan Bagja Pradana](https://bagja.net)
